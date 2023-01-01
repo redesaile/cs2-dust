@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "anubis/models/buildings/window01"
+	$bumpmap "anubis/models/buildings/window01_nrm"
+	$surfaceprop Rock
+}

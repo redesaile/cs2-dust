@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "anubis/models/buildings/door02"
+	$bumpmap "anubis/models/buildings/door02_nrm"
+	$surfaceprop Rock
+
+	$detail "detail/detail_rock001"
+	$detailscale 2
+	$detailblendfactor 0.2
+}

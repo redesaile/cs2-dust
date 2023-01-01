@@ -1,0 +1,25 @@
+VertexlitGeneric
+{
+	"$basetexture"	"models\props_untor\nature\grass\grass_weeds_color"
+	$AlphaTest 1
+	$allowalphatocoverage 1
+	$nocull 1
+	$model 1
+
+	$treeSway			"1"
+	$treeSwayHeight			"16"
+	$treeSwayStartHeight		".2"
+	$treeSwayRadius			"16"
+	$treeSwayStartRadius		"0"
+	$treeSwaySpeed			".5"
+	$treeSwayStrength		".2"
+	$treeSwayScrumbleSpeed		"3"
+	$treeSwayScrumbleStrength	".2"
+	$treeSwayScrumbleFrequency	"2"
+	$treeSwayFalloffExp		"32"
+	$treeSwayScrumbleFalloffExp	"32"
+	$treeSwaySpeedHighWindMultiplier "0"
+	$treeSwaySpeedLerpStart 	"64"
+	$treeSwaySpeedLerpEnd 		"600.0"
+
+}

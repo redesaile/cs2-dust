@@ -1,0 +1,7 @@
+DecalModulate
+{
+	$basetexture "anubis/overlays/heiroglyphics/figure_chicken"
+	$surfaceprop Concrete
+
+	$decal 1
+}

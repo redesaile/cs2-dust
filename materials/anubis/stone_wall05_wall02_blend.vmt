@@ -1,0 +1,23 @@
+WorldVertexTransition
+{
+	$basetexture "anubis/stone_wall02"
+	$bumpmap "anubis/models/structures/stone_pile_nrm"
+	$surfaceprop Concrete
+
+	$basetexture2 "brick/hr_brick/inferno/brick_g1"
+	$bumpmap2 "brick/hr_brick/inferno/brick_g_normals"
+
+	$detail "de_dust/hr_dust/hr_dust_asphalt_04_detail"
+	$detailblendfactor 0.7
+	$detailblendfactor2 0
+
+	$blendmodulatetexture "brick/hr_brick/inferno/brick_g_blend"
+
+	$blendsoftness 0.1
+	$dropshadowdepthexaggeration 1
+	$dropshadowhighlightscale 0.125
+	$dropshadowopacity 0.5
+	$dropshadowscale 0.125
+	$layertint2 "[1.76 1.70 1.68]"
+	$newlayerblending 1
+}

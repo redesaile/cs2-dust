@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "anubis/models/foliage/ivy01"
+
+	$alphatest 1
+	$alphatestreference 0.4
+	$nocull 1
+
+	$model 1
+}

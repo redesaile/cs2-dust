@@ -1,0 +1,22 @@
+WorldVertexTransition
+{
+	$basetexture "anubis/mudbrick02"
+	$bumpmap "anubis/mudbrick02_nrm"
+	$surfaceprop Concrete
+
+	$basetexture2 "anubis/stone_wall02"
+	$bumpmap2 "anubis/plaster_wall01_nrm"
+
+	$detail "de_dust/hr_dust/hr_dust_asphalt_04_detail"
+	$detailblendfactor 0
+	$detail2 "de_dust/hr_dust/hr_dust_asphalt_04_detail"
+	$detailscale2 0.5
+	$detailblendfactor2 0.5
+
+	$blendmodulatetexture "anubis/mudbrick02_blend"
+
+	$dropshadowdepthexaggeration 0.5
+	$dropshadowhighlightscale 0.125
+	$dropshadowopacity 0.5
+	$dropshadowscale 0.125
+}

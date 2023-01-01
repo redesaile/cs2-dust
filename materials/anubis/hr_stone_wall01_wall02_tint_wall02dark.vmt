@@ -1,0 +1,25 @@
+WorldVertexTransition
+{
+	$basetexture "anubis/stone_wall02"
+	$bumpmap "anubis/models/structures/stone_pile_nrm"
+	$surfaceprop Concrete
+
+	$basetexture2 "anubis/stone_wall01"
+	$bumpmap2 "anubis/stone_wall01_nrm"
+
+	$detail "detail/detail_rock001"
+	$detailscale 2
+	$detailblendfactor 0.2
+
+	$blendmodulatetexture "anubis/hr_stone_wall01_blend"
+	
+	"$layertint1"				"{220 210 198}"
+		
+	$NEWLAYERBLENDING	1
+	$BLENDSOFTNESS	.125
+	$LAYERBORDERSTRENGTH	.5
+	$LAYERBORDEROFFSET	0
+	$LAYERBORDERSOFTNESS	.2
+	$LAYERBORDERTINT	"{160 135 110}"
+	
+}

@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "anubis/models/foliage/acacia_bark"
+
+	$detail "detail/dt_wood1"
+	$detailscale 20
+}

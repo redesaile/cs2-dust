@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "anubis/overlays/heiroglyphics/figure02"
+	$bumpmap "anubis/overlays/heiroglyphics/figure02_nrm"
+	$surfaceprop Concrete
+
+	$alphatest 1
+	$alphatestreference 0.4
+	$decal 1
+}
