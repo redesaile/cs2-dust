@@ -1,0 +1,215 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8864"
+	"mapversion" "33"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "512"
+}
+palette_plus
+{
+	"color0" "255 255 255"
+	"color1" "255 255 255"
+	"color2" "255 255 255"
+	"color3" "255 255 255"
+	"color4" "255 255 255"
+	"color5" "255 255 255"
+	"color6" "255 255 255"
+	"color7" "255 255 255"
+	"color8" "255 255 255"
+	"color9" "255 255 255"
+	"color10" "255 255 255"
+	"color11" "255 255 255"
+	"color12" "255 255 255"
+	"color13" "255 255 255"
+	"color14" "255 255 255"
+	"color15" "255 255 255"
+}
+colorcorrection_plus
+{
+	"name0" ""
+	"weight0" "1"
+	"name1" ""
+	"weight1" "1"
+	"name2" ""
+	"weight2" "1"
+	"name3" ""
+	"weight3" "1"
+}
+light_plus
+{
+	"samples_sun" "6"
+	"samples_ambient" "40"
+	"samples_vis" "256"
+	"texlight" ""
+	"incremental_delay" "0"
+	"bake_dist" "1024"
+	"radius_scale" "1"
+	"brightness_scale" "1"
+	"ao_scale" "0"
+	"bounced" "1"
+	"incremental" "1"
+	"supersample" "0"
+	"bleed_hack" "1"
+	"soften_cosine" "1"
+	"debug" "0"
+	"cubemap" "1"
+	"hdr" "1"
+	"csm" "1"
+}
+bgimages_plus
+{
+}
+world
+{
+	"id" "1"
+	"mapversion" "33"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_dust"
+}
+entity
+{
+	"id" "25269"
+	"classname" "sky_camera"
+	"angles" "0 0 0"
+	"fogblend" "0"
+	"fogcolor" "188 184 172"
+	"fogcolor2" "255 255 255"
+	"fogdir" "1 0 0"
+	"fogenable" "1"
+	"fogend" "65000"
+	"fogmaxdensity" "1"
+	"fogstart" "8000"
+	"HDRColorScale" "1.0"
+	"scale" "16"
+	"use_angles" "0"
+	"origin" "0 0 -13312"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -4268]"
+	}
+}
+cameras
+{
+	"activecamera" "0"
+	camera
+	{
+		"position" "[-187.277 9923.72 -14682.3]"
+		"look" "[-167.72 9817.16 -14439]"
+	}
+	camera
+	{
+		"position" "[-256 1116.72 188.239]"
+		"look" "[-256 864 104]"
+	}
+	camera
+	{
+		"position" "[639 1116.72 188.239]"
+		"look" "[639 864 104]"
+	}
+	camera
+	{
+		"position" "[192 1116.72 188.239]"
+		"look" "[192 864 104]"
+	}
+	camera
+	{
+		"position" "[808 601.716 88.2386]"
+		"look" "[808 349 4]"
+	}
+	camera
+	{
+		"position" "[192 760.716 92.2386]"
+		"look" "[192 508 8]"
+	}
+	camera
+	{
+		"position" "[416 540.716 92.2386]"
+		"look" "[416 288 8]"
+	}
+	camera
+	{
+		"position" "[480 540.716 92.2386]"
+		"look" "[480 288 8]"
+	}
+	camera
+	{
+		"position" "[-32 540.716 92.2386]"
+		"look" "[-32 288 8]"
+	}
+	camera
+	{
+		"position" "[-96 540.716 92.2386]"
+		"look" "[-96 288 8]"
+	}
+	camera
+	{
+		"position" "[-96 -672.716 92.2386]"
+		"look" "[-96 -420 8]"
+	}
+	camera
+	{
+		"position" "[480 -672.716 92.2386]"
+		"look" "[480 -420 8]"
+	}
+	camera
+	{
+		"position" "[640 -1244.72 188.239]"
+		"look" "[640 -992 104]"
+	}
+	camera
+	{
+		"position" "[-255 -1244.72 188.239]"
+		"look" "[-255 -992 104]"
+	}
+	camera
+	{
+		"position" "[192 -1244.72 188.239]"
+		"look" "[192 -992 104]"
+	}
+	camera
+	{
+		"position" "[192 -892.716 92.2386]"
+		"look" "[192 -640 8]"
+	}
+	camera
+	{
+		"position" "[416 -668.716 92.2386]"
+		"look" "[416 -416 8]"
+	}
+	camera
+	{
+		"position" "[-32 -668.716 92.2386]"
+		"look" "[-32 -416 8]"
+	}
+	camera
+	{
+		"position" "[800 -732.716 92.2386]"
+		"look" "[800 -480 8]"
+	}
+	camera
+	{
+		"position" "[-424 -732.716 88.2386]"
+		"look" "[-424 -480 4]"
+	}
+}
+cordons
+{
+	"active" "0"
+}
