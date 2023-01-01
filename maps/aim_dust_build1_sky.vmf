@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "31"
+	"mapversion" "32"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -73,7 +73,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "31"
+	"mapversion" "32"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.4.2 from aim_dust"
 	"detailmaterial" "detail/detailsprites"
@@ -4602,7 +4602,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.44"
-	"origin" "-1240 11188 -15165"
+	"origin" "-1216 11176 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -4670,7 +4670,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.24"
-	"origin" "-166 9044 -15165"
+	"origin" "-152 9064 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -4704,7 +4704,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.52"
-	"origin" "-432 8878 -15165"
+	"origin" "-408 8912 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -4738,7 +4738,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.36"
-	"origin" "1370 9102 -15165"
+	"origin" "1376 9120 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -4751,7 +4751,7 @@ entity
 {
 	"id" "6524"
 	"classname" "prop_static"
-	"angles" "0 13 0"
+	"angles" "0 28 0"
 	"disableselfshadowing" "1"
 	"disableshadows" "1"
 	"disablevertexlighting" "1"
@@ -4772,7 +4772,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.44"
-	"origin" "782 8992 -15165"
+	"origin" "808 9024 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -4806,7 +4806,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.44"
-	"origin" "24 8774 -15165"
+	"origin" "40 8784 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -4840,7 +4840,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.32"
-	"origin" "370 8938 -15165"
+	"origin" "400 8960 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -4874,7 +4874,7 @@ entity
 	"skin" "0"
 	"solid" "0"
 	"uniformscale" "0.42"
-	"origin" "1408 9526 -15165"
+	"origin" "1400 9528 -15165"
 	editor
 	{
 		"color" "255 255 0"
@@ -6245,24 +6245,138 @@ entity
 }
 entity
 {
-	"id" "26023"
-	"classname" "light_environment"
-	"_ambient" "151 167 213 550"
-	"_ambientHDR" "-1 -1 -1 1"
-	"_AmbientScaleHDR" "1"
-	"_light" "255 221 187 700"
-	"_lightHDR" "-1 -1 -1 1"
-	"_lightscaleHDR" "1"
-	"angles" "0 253 0"
-	"pitch" "-60"
-	"SunSpreadAngle" "0"
-	"origin" "-512 10624 -15101"
+	"id" "26306"
+	"classname" "prop_static"
+	"angles" "0 222.5 0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
+	"disablevertexlighting" "1"
+	"disableX360" "0"
+	"drawinfastreflection" "1"
+	"fademaxdist" "2800"
+	"fademindist" "2700"
+	"fadescale" "1"
+	"ignorenormals" "1"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/props/dust_massive/beachwaves_dust/beachwaves_dust_b.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "0"
+	"uniformscale" "0.44"
+	"origin" "-896 11504 -15165"
 	editor
 	{
-		"color" "220 30 220"
+		"color" "255 255 0"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
-		"logicalpos" "[0 7500]"
+		"logicalpos" "[500 -1768]"
+	}
+}
+entity
+{
+	"id" "26261"
+	"classname" "prop_static"
+	"angles" "0 2.5 0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
+	"disablevertexlighting" "1"
+	"disableX360" "0"
+	"drawinfastreflection" "1"
+	"fademaxdist" "2800"
+	"fademindist" "2700"
+	"fadescale" "1"
+	"ignorenormals" "1"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/props/dust_massive/beachwaves_dust/beachwaves_dust_c.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "0"
+	"uniformscale" "0.32"
+	"origin" "264 8856 -15165"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -5268]"
+	}
+}
+entity
+{
+	"id" "26275"
+	"classname" "prop_static"
+	"angles" "0 58 0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
+	"disablevertexlighting" "1"
+	"disableX360" "0"
+	"drawinfastreflection" "1"
+	"fademaxdist" "2800"
+	"fademindist" "2700"
+	"fadescale" "1"
+	"ignorenormals" "1"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/props/dust_massive/beachwaves_dust/beachwaves_dust_b.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "0"
+	"uniformscale" "0.44"
+	"origin" "968 9264 -15165"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -4268]"
+	}
+}
+entity
+{
+	"id" "26292"
+	"classname" "prop_static"
+	"angles" "0 332.5 0"
+	"disableselfshadowing" "1"
+	"disableshadows" "1"
+	"disablevertexlighting" "1"
+	"disableX360" "0"
+	"drawinfastreflection" "1"
+	"fademaxdist" "2800"
+	"fademindist" "2700"
+	"fadescale" "1"
+	"ignorenormals" "1"
+	"maxcpulevel" "0"
+	"maxgpulevel" "0"
+	"mincpulevel" "0"
+	"mingpulevel" "0"
+	"model" "models/props/dust_massive/beachwaves_dust/beachwaves_dust_c.mdl"
+	"renderamt" "255"
+	"rendercolor" "255 255 255"
+	"screenspacefade" "0"
+	"skin" "0"
+	"solid" "0"
+	"uniformscale" "0.42"
+	"origin" "1136 9384 -15165"
+	editor
+	{
+		"color" "255 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 -5768]"
 	}
 }
 cameras
@@ -6270,8 +6384,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[92.4334 11548.9 -14704.5]"
-		"look" "[-65.8703 11360.3 -14806.1]"
+		"position" "[620.372 10720.4 -14344.4]"
+		"look" "[505.758 10534.1 -14496.4]"
 	}
 	camera
 	{

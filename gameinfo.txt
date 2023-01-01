@@ -1,7 +1,7 @@
 "GameInfo"
 {
 	game	"Counter-Strike: Global Offensive"
-	title	"Minecraft Castle"
+	title	"Dust"
 
 	"developer" 		"redesaile"
 
