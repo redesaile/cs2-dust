@@ -5,7 +5,7 @@
 <br>**Maximum players:** 32 (16 per team)
 
 ## Get resources
-[`Developer Content`](https://github.com/Redesaile/csgo-developer)
+[`Developer Content`](https://github.com/redesaile/csgo-developer)
 
 ## Gallery
 Empty
