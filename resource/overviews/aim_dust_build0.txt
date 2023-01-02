@@ -1,0 +1,12 @@
+// TAVR - AUTO RADAR. v 2.5.0a
+"aim_dust_build0"
+{
+	"CTSpawn_x" "0.500000"
+	"CTSpawn_y" "0.750000"
+	"TSpawn_x" "0.500000"
+	"TSpawn_y" "0.250000"
+	"material" "overviews/aim_dust_build0"
+	"pos_x" "-1600.000000"
+	"pos_y" "1600.000000"
+	"scale" "3.130000"
+}
