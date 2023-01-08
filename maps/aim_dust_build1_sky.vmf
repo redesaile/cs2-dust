@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "33"
+	"mapversion" "34"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -73,7 +73,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "33"
+	"mapversion" "34"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -950,11 +950,11 @@ world
 				"v" "162 11586 -15110"
 				"v" "1427 11586 -15110"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 -0 -0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.15"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -968,11 +968,11 @@ world
 				"v" "162 13161 -15109"
 				"v" "162 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 -1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -986,11 +986,11 @@ world
 				"v" "1427 13161 -15109"
 				"v" "162 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1004,11 +1004,11 @@ world
 				"v" "1427 11586 -15109"
 				"v" "1427 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1022,11 +1022,11 @@ world
 				"v" "162 11586 -15109"
 				"v" "1427 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1199,11 +1199,11 @@ world
 				"v" "-2368 11586 -15110"
 				"v" "-1103 11586 -15110"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 -0 -0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.15"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1217,11 +1217,11 @@ world
 				"v" "-2368 13161 -15109"
 				"v" "-2368 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 -1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1235,11 +1235,11 @@ world
 				"v" "-1103 13161 -15109"
 				"v" "-2368 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1253,11 +1253,11 @@ world
 				"v" "-1103 11586 -15109"
 				"v" "-1103 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1271,11 +1271,11 @@ world
 				"v" "-2368 11586 -15109"
 				"v" "-1103 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1566,11 +1566,11 @@ world
 				"v" "-1103 11586 -15110"
 				"v" "162 11586 -15110"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 -0 -0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.15"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1584,11 +1584,11 @@ world
 				"v" "-1103 13161 -15109"
 				"v" "-1103 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 -1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1602,11 +1602,11 @@ world
 				"v" "162 13161 -15109"
 				"v" "-1103 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1620,11 +1620,11 @@ world
 				"v" "162 11586 -15109"
 				"v" "162 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1638,11 +1638,11 @@ world
 				"v" "-1103 11586 -15109"
 				"v" "162 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -1815,11 +1815,11 @@ world
 				"v" "1427 11586 -15110"
 				"v" "2692 11586 -15110"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 -0 -0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.15"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1833,11 +1833,11 @@ world
 				"v" "1427 13161 -15109"
 				"v" "1427 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 -1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1851,11 +1851,11 @@ world
 				"v" "2692 13161 -15109"
 				"v" "1427 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1869,11 +1869,11 @@ world
 				"v" "2692 11586 -15109"
 				"v" "2692 13161 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[0 1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1887,11 +1887,11 @@ world
 				"v" "1427 11586 -15109"
 				"v" "2692 11586 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -4022,11 +4022,11 @@ world
 				"v" "-896 10880 -15110"
 				"v" "-128 10880 -15110"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 -0 -0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.15"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -4040,11 +4040,11 @@ world
 				"v" "-896 11648 -15109"
 				"v" "-896 10880 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-0 -1 -0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -4058,11 +4058,11 @@ world
 				"v" "-128 11648 -15109"
 				"v" "-896 11648 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-1 0 0 0] 0.25"
-			"vaxis" "[-0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -4076,11 +4076,11 @@ world
 				"v" "-128 10880 -15109"
 				"v" "-128 11648 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[-0 1 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 1 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		side
@@ -4094,11 +4094,11 @@ world
 				"v" "-896 10880 -15109"
 				"v" "-128 10880 -15109"
 			}
-			"material" "DE_DUST/HR_DUST/HR_DUST_BLEND_GROUNDROUGH01-GROUNDROUGH02"
-			"uaxis" "[1 0 0 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 -0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "41"
+			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6383,8 +6383,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[620.372 10720.4 -14344.4]"
-		"look" "[505.758 10534.1 -14496.4]"
+		"position" "[402.766 9426.45 -6907.62]"
+		"look" "[402.766 9426.45 -6641.26]"
 	}
 	camera
 	{

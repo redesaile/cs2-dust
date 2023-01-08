@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8864"
-	"mapversion" "77"
+	"mapversion" "79"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -85,7 +85,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "77"
+	"mapversion" "79"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -17340,8 +17340,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[553.709 1203.06 185.768]"
-		"look" "[448.862 958.427 174.611]"
+		"position" "[417.075 -513.894 70.857]"
+		"look" "[417.075 -513.894 -195.532]"
 	}
 	camera
 	{
