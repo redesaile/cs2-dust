@@ -3,7 +3,7 @@ A small map for aim training.
 
 ## Additional information
 **Weapon:** Any available for purchase. <br>
-**Maximum players:** 40 (20 per team).
+**Maximum players:** 32 (16 per team).
 
 ## Required Resources
 [`Developer Content`](https://github.com/redesaile/csgo-developer)
