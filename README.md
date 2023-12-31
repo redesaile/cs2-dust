@@ -6,7 +6,7 @@ A small map for aim training.
 **Maximum players:** 32 (16 per team).
 
 ## Required Resources
-[`Developer Content`](https://github.com/redesaile/csgo-developer)
+[`Developer Content`](https://github.com/redesaile/source-developer)
 
 ## Gallery
 ![T Spawn](https://github.com/redesaile/csgo-dust/assets/90133781/ecc72e0b-60e8-4d35-8c02-6d7dc00a0a3d)
