@@ -1,14 +1,6 @@
-# Source Engine
-*.vmx
-*.lin
-*.prt
-*.log
-*.bsp
-*.nav
-
-# User-specific files
-*.blend*
-!*.blend
-
 # Windows Explorer
+*.lnk
 desktop.ini
+
+# Counter-Strike 2
+*_bakeresourcecache*
