@@ -1,8 +1,0 @@
-grass
-{
-	"$basetexture" "detail/detailsprites"
-	$alphatest 1
-	$vertexcolor 1
-
-
-}

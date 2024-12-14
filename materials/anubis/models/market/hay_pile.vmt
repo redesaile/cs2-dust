@@ -1,9 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "anubis/models/market/hay_pile"
-	$bumpmap "anubis/models/market/hay_pile_nrm"
-	$surfaceprop grass
-
-	$alphatest 1
-	$alphatestreference .2
-}

@@ -1,5 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "anubis/models/structures/tower01"
-	$bumpmap "anubis/models/structures/tower01_nrm"
-}

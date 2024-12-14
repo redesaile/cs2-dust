@@ -1,8 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "anubis/models/foliage/acacia"
-
-	$alphatest 1
-	$alphatestreference 0.4
-	$nocull 1
-}

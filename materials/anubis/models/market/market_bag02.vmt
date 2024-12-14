@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "anubis/models/market/market_bag02"
-	$bumpmap "anubis/models/market/market_bag02_nrm"
-	$surfaceprop Rock
-}

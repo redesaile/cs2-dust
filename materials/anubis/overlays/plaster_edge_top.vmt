@@ -1,9 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "anubis/overlays/plaster_edge_top"
-	$bumpmap "anubis/overlays/plaster_edge_top_nrm"
-	$surfaceprop Concrete
-
-	$alphatest 1
-	$decal 1
-}
