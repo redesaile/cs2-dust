@@ -4,10 +4,6 @@ Layer0
 {
 	shader "csgo_complex.vfx"
 
-	//---- PBR ----
-	F_CLOTH_SHADING 1
-	F_TRANSMISSIVE_BACKFACE_NDOTL 1
-
 	//---- Ambient Occlusion ----
 	TextureAmbientOcclusion "materials/default/default_ao.tga"
 
@@ -37,6 +33,33 @@ Layer0
 	g_nTextureAddressModeU "0" // Wrap
 	g_nTextureAddressModeV "0" // Wrap
 
-	//---- Transmission ----
-	TextureTransmissiveColor "materials/models/props_megascans/sandstone_terrain_01_fuzz.jpg"
+	UnusedVariables
+	{
+		"TextureTransmissiveColor" "materials/default/default_color.tga"
+	}
+
+
+	VariableState
+	{
+		"Ambient Occlusion"
+		{
+		}
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Lighting"
+		{
+			"Roughness" 0
+			"Metalness" 0
+		}
+		"Normal Map"
+		{
+		}
+		"Texture Address Mode"
+		{
+		}
+	}
 }
