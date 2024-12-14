@@ -1,0 +1,26 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "sky.vfx"
+
+	//---- Texture ----
+	g_flBrightnessExposureBias "0.000"
+	g_flRenderOnlyExposureBias "0.000"
+	SkyTexture "materials/skybox/sky_aim_dust_color.png"
+
+	Attributes
+	{
+		SolarRadius "0.51"
+		SolarIrradiance "[2.107187 2.123156 1.794319 0.000000]"
+		SolarPosition "[0.422618 0.000000 0.906308 0.000000]"
+	}
+
+
+	VariableState
+	{
+		"Texture"
+		{
+		}
+	}
+}

@@ -1,0 +1,102 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "csgo_foliage.vfx"
+
+	//---- Foliage Animation ----
+	F_FOLIAGE_ANIMATION 1
+
+	//---- Ambient Occlusion ----
+	TextureAmbientOcclusion "materials/models/props_resort/pine_bark_ao.png"
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_fTextureColorBrightness "1.000"
+	g_fTextureColorContrast "1.000"
+	g_fTextureColorSaturation "1.000"
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+	g_vTextureColorCorrectionTint "[1.000000 1.000000 1.000000 0.000000]"
+	TextureColor "materials/models/props_resort/pine_bark_color.png"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Foliage Animation ----
+	g_bBranchMotionPerpendicular "1"
+	g_bFrondTipUseEnvWind "0"
+	g_bSmootherNoiseBranchAndTrunk "1"
+	g_flBranchAnimSpeed "1.000"
+	g_flBranchDeflection "0.000"
+	g_flBranchDeflectionEnd "150.000"
+	g_flBranchDeflectionStart "0.000"
+	g_flBranchNoiseLevel "0.500"
+	g_flFrondTipAnimSpeed "1.000"
+	g_flFrondTipMaskFalloff "1.000"
+	g_flFrondTipSpatialIncoherence "1.000"
+	g_flFrondTipStrength "2.000"
+	g_flTrunkAnimSpeed "0.861"
+	g_flTrunkDeflection "0.013"
+	g_flTrunkDeflectionEnd "300.000"
+	g_flTrunkDeflectionStart "0.000"
+	g_flTrunkNoiseLevel "0.500"
+	g_vNoiseUvScale "[1.000 1.000 1.000]"
+	g_vNoiseUvSpeed "[0.250 0.250 0.250]"
+
+	//---- Lighting ----
+	g_fTextureRoughnessBrightness "1.000"
+	g_fTextureRoughnessContrast "1.000"
+	TextureRoughness "materials/models/props_resort/pine_bark_rough.png"
+
+	//---- Normal Map ----
+	g_fTextureNormalContrast "1.000"
+	TextureNormal "materials/models/props_resort/pine_bark_normal.png"
+
+	//---- Texture Address Mode ----
+	g_nTextureAddressModeU "0" // Wrap
+	g_nTextureAddressModeV "0" // Wrap
+
+	//---- Vertex Color ----
+	g_flHeightGradientAmount "0.000"
+	g_flHeightGradientPower "1.000"
+	g_flVertexAmbientOcclusionAmount "0.000"
+	g_flVertexAmbientOcclusionPower "1.000"
+
+
+	VariableState
+	{
+		"Ambient Occlusion"
+		{
+		}
+		"Color"
+		{
+			"Color Correction" 0
+		}
+		"Fog"
+		{
+		}
+		"Foliage Animation"
+		{
+			"Branch Animation" 0
+			"Common Noise Parameters" 0
+			"Frond Tip Anim (Red Channel)" 0
+			"Trunk Animation" 0
+		}
+		"Lighting"
+		{
+			"Roughness" 0
+		}
+		"Normal Map"
+		{
+		}
+		"Texture Address Mode"
+		{
+		}
+		"Vertex Color"
+		{
+			"Ambient Occlusion (Alpha Channel)" 0
+			"Height Gradient (Red Channel)" 0
+		}
+	}
+}

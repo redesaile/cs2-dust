@@ -1,0 +1,25 @@
+VertexLitGeneric
+{
+	$basetexture "models/props_resort/pine_branches"
+
+	$alphatest 1
+	$alphatestreference 0.6
+	$nocull 1
+
+	$disablecsmlookup 1
+	$treesway 1
+	$treeswayfalloffexp 10
+	$treeswayheight 1024
+	$treeswayradius 500
+	$treeswayscrumblefalloffexp 800
+	$treeswayscrumblefrequency 15
+	$treeswayscrumblespeed 1
+	$treeswayscrumblestrength 0.1
+	$treeswayspeed 1
+	$treeswayspeedhighwindmultiplier 0
+	$treeswayspeedlerpend 600
+	$treeswayspeedlerpstart 200
+	$treeswaystartheight .3
+	$treeswaystartradius .6
+	$treeswaystrength 0.2
+}

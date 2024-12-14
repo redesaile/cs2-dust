@@ -1,0 +1,84 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "csgo_complex.vfx"
+
+	//---- PBR ----
+	F_METALNESS_TEXTURE 1
+	F_SELF_ILLUM 1
+
+	//---- Per-Instance Tint Mask ----
+	F_TINT_MASK 1
+
+	//---- Ambient Occlusion ----
+	TextureAmbientOcclusion "materials/default/default_ao.tga"
+
+	//---- Color ----
+	g_flModelTintAmount "1.000"
+	g_flTexCoordRotation "0.000"
+	g_nScaleTexCoordUByModelScaleAxis "0" // None
+	g_nScaleTexCoordVByModelScaleAxis "0" // None
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordCenter "[0.500 0.500]"
+	g_vTexCoordOffset "[0.000 0.000]"
+	g_vTexCoordScale "[1.000 1.000]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+	TextureColor "materials/models/props/aim_dust/dust_wire_attachments_01_lit_color.png"
+	TextureTintMask "materials/models/props/aim_dust/dust_wire_attachments_01_lit_tintmask.png"
+
+	//---- Fog ----
+	g_bFogEnabled "1"
+
+	//---- Lighting ----
+	TextureMetalness "materials/models/props/aim_dust/dust_wire_attachments_01_lit_metal.jpg"
+	TextureRoughness "materials/models/props/aim_dust/dust_wire_attachments_01_lit_rough.jpg"
+
+	//---- Normal Map ----
+	TextureNormal "materials/models/props/aim_dust/dust_wire_attachments_01_lit_normal.png"
+
+	//---- Self Illum ----
+	g_flSelfIllumAlbedoFactor "0.853"
+	g_flSelfIllumBrightness "5.245"
+	g_flSelfIllumScale "1.000"
+	g_vSelfIllumScrollSpeed "[0.000 0.000]"
+	g_vSelfIllumTint "[1.000000 0.807843 0.615686 1.000000]"
+	TextureSelfIllumMask "materials/models/props/aim_dust/dust_wire_attachments_01_lit_selfillum.jpg"
+
+	//---- Texture Address Mode ----
+	g_nTextureAddressModeU "0" // Wrap
+	g_nTextureAddressModeV "0" // Wrap
+
+	UnusedVariables
+	{
+		"g_flMetalness" "0"
+	}
+
+
+	VariableState
+	{
+		"Ambient Occlusion"
+		{
+		}
+		"Color"
+		{
+		}
+		"Fog"
+		{
+		}
+		"Lighting"
+		{
+			"Roughness" 0
+			"Metalness" 0
+		}
+		"Normal Map"
+		{
+		}
+		"Self Illum"
+		{
+		}
+		"Texture Address Mode"
+		{
+		}
+	}
+}
