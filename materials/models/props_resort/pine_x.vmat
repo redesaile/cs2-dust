@@ -32,7 +32,7 @@ Layer0
 	//---- Lighting ----
 	g_fTextureRoughnessBrightness "1.000"
 	g_fTextureRoughnessContrast "1.000"
-	TextureRoughness "materials/models/props_resort/pine_branches_rough.png"
+	TextureRoughness "materials/models/props_resort/pine_x_rough.png"
 
 	//---- Normal Map ----
 	g_fTextureNormalContrast "1.000"
@@ -51,13 +51,18 @@ Layer0
 
 	//---- Transmission ----
 	g_bApplyColorCorrectionToTransmissiveColor "0"
-	TextureTransmissiveColor "materials/models/props_resort/pine_x_color.png"
+	TextureTransmissiveColor "materials/models/props_resort/pine_x_transcolor.png"
 
 	//---- Vertex Color ----
 	g_flHeightGradientAmount "0.000"
 	g_flHeightGradientPower "1.000"
 	g_flVertexAmbientOcclusionAmount "0.000"
 	g_flVertexAmbientOcclusionPower "1.000"
+
+	Attributes
+	{
+		PreviewModel "models/props_resort/pine_sky_cluster01.vmdl"
+	}
 
 	UnusedVariables
 	{
@@ -75,15 +80,6 @@ Layer0
 		"g_vNoise1Speed" "[0.000 0.000 0.000]"
 		"g_vNoise2Scale" "[0.000 0.000 0.000]"
 		"g_vNoise2Speed" "[0.000 0.000 0.000]"
-		"g_flFlutterAmount" "0.176"
-		"g_flFlutterFalloff" "1"
-		"g_flFlutterNoiseScale" "1"
-		"g_flFlutterSpeed" "0.008"
-		"g_flSwayAmount" "0.004"
-		"g_flSwayFalloff" "1"
-		"g_flSwayNoiseScale" "1"
-		"g_flSwaySpeed" "1"
-		"g_flVertexNormalInfluence" "0"
 		"g_bBranchMotionPerpendicular" "1"
 		"g_bFrondTipUseEnvWind" "0"
 		"g_bSmootherNoiseBranchAndTrunk" "1"
@@ -103,6 +99,15 @@ Layer0
 		"g_flTrunkNoiseLevel" "0.5"
 		"g_vNoiseUvScale" "[1.000 1.000 1.000]"
 		"g_vNoiseUvSpeed" "[0.250 0.250 0.250]"
+		"g_flFlutterAmount" "0.15"
+		"g_flFlutterFalloff" "1"
+		"g_flFlutterNoiseScale" "0.805"
+		"g_flFlutterSpeed" "1"
+		"g_flSwayAmount" "0.201"
+		"g_flSwayFalloff" "1.737"
+		"g_flSwayNoiseScale" "0.407"
+		"g_flSwaySpeed" "0.403"
+		"g_flVertexNormalInfluence" "0"
 	}
 
 
