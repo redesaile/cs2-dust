@@ -84,7 +84,7 @@
 						[
 							{
 								from = "sandstone_terrain_01_lod0.vmat"
-								to = "materials/models/props_megascans/sandstone_terrain_01.vmat"
+								to = "materials/models/props_megascans/sandstone_terrain_01-lod1.vmat"
 							},
 							{
 								from = "sandstone_terrain_01_lod1.vmat"
@@ -100,7 +100,7 @@
 							},
 							{
 								from = "sandstone_terrain_01_lod4.vmat"
-								to = "materials/models/props_megascans/sandstone_terrain_01-lod4.vmat"
+								to = "materials/models/props_megascans/sandstone_terrain_01-lod5.vmat"
 							},
 							{
 								from = "sandstone_terrain_01_lod5.vmat"
@@ -185,8 +185,8 @@
 				]
 			},
 		]
-		model_archetype = ""
-		primary_associated_entity = ""
+		model_archetype = "static_prop_model"
+		primary_associated_entity = "prop_static"
 		anim_graph_name = ""
 		document_sub_type = "ModelDocSubType_None"
 	}
