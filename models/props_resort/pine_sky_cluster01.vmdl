@@ -39,6 +39,11 @@
 					},
 				]
 			},
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = ""
+			},
 		]
 		model_archetype = "static_prop_model"
 		primary_associated_entity = "prop_static"
