@@ -15,4 +15,4 @@ A small town yard somewhere in the desert, created for aim training in [Counter-
 ## License
 Do whatever you want. I don't care.
 
-[MIT](LICENSE) - Copyright (c) 2023 THE OWL
+[MIT](LICENSE) - Copyright (c) 2025 THE OWL
