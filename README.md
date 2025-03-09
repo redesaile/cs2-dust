@@ -3,7 +3,7 @@ A small town yard somewhere in the desert, created for aim training in [Counter-
 
 ## Details
 **Game scenario:** Aim Training
-<br> **Supported game modes:** Classic, Deathmatch, Arm Race, Wingman, Custom
+<br> **Supported game modes:** Classic, Deathmatch, Arms Race, Wingman, Custom
 <br> **Weapon limit:** No limit (fully open buy menu)
 <br> **Maximum players:** 32 (16 per team)
 
