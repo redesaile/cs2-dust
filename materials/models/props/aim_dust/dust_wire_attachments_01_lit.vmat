@@ -49,6 +49,11 @@ Layer0
 	g_nTextureAddressModeU "0" // Wrap
 	g_nTextureAddressModeV "0" // Wrap
 
+	SystemAttributes
+	{
+		PhysicsSurfaceProperties "metal"
+	}
+
 	UnusedVariables
 	{
 		"g_flMetalness" "0"
