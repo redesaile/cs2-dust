@@ -1,4 +1,4 @@
-<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc37:version{9e04b9aa-f073-4e59-8923-ff57489eb2c7} -->
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc40:version{da0ab1f8-9722-4910-94b8-10b6a08c0934} -->
 {
 	rootNode = 
 	{
@@ -42,10 +42,13 @@
 						offset_angles = [ 0.0, 0.0, 0.0 ]
 						filename = "models/props_resort/pine_medium02a_physics.smd"
 						import_scale = 1.0
-						maxMeshVertices = 0
-						qemError = 0.0
-						small_element_threshold = 0.0
-						thin_element_threshold = 0.0
+						simplification_params = 
+						{
+							qemError = 0.0
+							maxMeshVertices = 0
+							small_element_threshold = 0.0
+							thin_element_threshold = 0.0
+						}
 						import_filter = 
 						{
 							exclude_by_default = false
